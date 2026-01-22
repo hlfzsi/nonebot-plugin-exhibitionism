@@ -2,7 +2,7 @@
 
 # nonebot-plugin-exhibitionism
 
-_✨ 让我看看！！赛博露阴癖，将你的代码展示到群聊 ✨_
+_✨ 让我看看！！将你的代码展示到群聊 ✨_
 
 <a href="./LICENSE">
     <img src="https://img.shields.io/github/license/hlfzsi/nonebot-plugin-exhibitionism.svg" alt="license">
